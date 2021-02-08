@@ -1,2 +1,1 @@
-# Tindergod
-none
+TinDog Starting Files
